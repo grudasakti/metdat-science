@@ -8,3 +8,4 @@ Gruda Sakti Krida Prastya - 672019252
 - Pertemuan 7 : Data Preparation
 - Pertemuan 8 : Imputasi
 - TTS : Test Tengah Semester
+- Pertemuan 10 : Modeling Klasifikasi
