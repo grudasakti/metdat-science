@@ -10,3 +10,4 @@ Gruda Sakti Krida Prastya - 672019252
 - TTS : Test Tengah Semester
 - Pertemuan 10 : Modeling Klasifikasi
 - Pertemuan 11 : Clustering
+- Pertemuan 12 : Regresi
