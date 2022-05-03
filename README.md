@@ -1,4 +1,4 @@
-# metdat-science
+# Metodologi Data Science
 
 Gruda Sakti Krida Prastya - 672019252
 
